@@ -106,11 +106,23 @@
 - Style transfer
 - Character generator
 
+### Phase 7: Platform & Integration 🌐
+- Web version (WebAssembly)
+- Unity/Godot/Unreal exporters
+- Aseprite compatibility
+- Real-time collaboration
+- Cloud storage
+
 ### Phase 8: Game Development Studio 🎯
 - Tilemap editor
+- Sprite batch import
 - Texture packer
 - UI/UX designer
 - Font designer
+
+---
+
+## 🛠️ Installation
 
 ### Prerequisites
 ```bash
